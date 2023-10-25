@@ -14,9 +14,9 @@
 const StreamingList = {
   our_sites: [
     {
-      site: "https://rize-sama.github.io/streamy/",
+      site: "https://rajeev-paswan.github.io/streamy/",
       name: "Streamy",
-      favicon: "https://rize-sama.github.io/streamy/vite.svg",
+      favicon: "https://rajeev-paswan.github.io/streamy/vite.svg",
     },
   ],
   movies: [
